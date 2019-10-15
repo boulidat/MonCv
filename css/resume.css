@@ -18,12 +18,18 @@ body {
     margin-right: auto;
 
 }
-header img{
-	float : right;
+header {
 	border : 1px #ccc solid;
 	border-radius : 3px;
-	box-shadow: 0px 2px 4px rgba(0,0,0,0.2); 
+  
 	
+}
+img{
+
+  float : right;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+
+
 }
 h1{
       font-family: aclonica, sans-serif;
@@ -31,4 +37,19 @@ h1{
       position: relative;
       margin-top: 2px;
 
+}
+h3{
+
+    font-family: dynalight, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+
+}
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 1px;
 }
