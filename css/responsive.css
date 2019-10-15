@@ -13,6 +13,6 @@
  */
 
  @media only screen and (max-width: 700px){
-    img {float:none; width: 100%;}
+    img {float:none; width:100%;}
     h1, h2, h3, h4 {float: center;text-align: center;}
 }
